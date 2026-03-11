@@ -1,5 +1,7 @@
 # COKACDIR
 
+[English](README.md) | [한국어](README.ko.md)
+
 Multi-panel terminal file manager with AI-powered natural language commands.
 
 **Terminal File Manager for Vibe Coders** - An easy terminal explorer for vibe coders who are scared of the terminal.
